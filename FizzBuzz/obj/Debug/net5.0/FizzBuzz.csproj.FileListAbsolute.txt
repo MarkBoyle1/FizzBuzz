@@ -1,0 +1,15 @@
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.json
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.dev.json
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
+/Users/Mark.Boyle/Desktop/c#/katas/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.genruntimeconfig.cache
